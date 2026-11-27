@@ -1,0 +1,25 @@
+GRUPO GGHL
+El compañero Giraldo empezó la exposición a las 8:30 y explicó lo siguiente: hizo la práctica con Apache Spark; se divide un trabajo en partes que puedan ejecutarse.
+La arquitectura se trabaja mediante un driver, o sea un coordinador.
+El driver asigna tareas y solicita recursos a los servidores principales.
+El compañero Giraldo dio su práctica en Visual Studio, en base a su proyecto final de revisión de vehículos.
+Hizo el código con Python, usó Java 21 con versión de Python 3.15 (como lo dijo).
+Explicó línea a línea el código.
+Ejecutó el proyecto y explicó los resultados de la ejecución.
+Terminó su intervención a las 8:43.
+
+El siguiente compañero fue García Roger: empezó a las 8:43.
+Explica que va a hacer una simulación en Python y habla sobre CAP: coordinar datos al ejecutar en paralelo.
+También habló sobre PACELC: coordinar también cuesta sin fallos.
+Su exposición está basada en su sistema de PFC, muestra evidencia de CLAB: consultar no es reservar.
+El compañero García Roger no hizo práctica; sin embargo, mostró capturas de práctica y las explicó.
+
+El siguiente fue Lombeida, empezó a las 8:49. Explicó sobre la tolerancia a fallos: la tolerancia sigue funcionando correctamente aunque haya fallos. Habló sobre los tipos de fallos: nodos, comunicación, etc.
+Habló sobre la detección y recuperación ante fallos.
+El compañero Lombeida dio su práctica en el cmd sobre su proyecto final de curso; puso en práctica la tolerancia a fallos, recuperación y detección.
+Su intervención terminó a las 8:56.
+
+El grupo terminó a las 8:56.
+Faltó mostrar hilos, sincronización, etc.; lo mencionó el docente.
+
+El compañero Herrera no asistió.
