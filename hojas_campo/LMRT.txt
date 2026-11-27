@@ -1,0 +1,21 @@
+GRUPO LMRT
+Inició el grupo a las 9:03.
+Empezó la compañera Toaquiza a las 9:05; no se le escucha al principio, luego empezó de nuevo y se escuchó un poco más.
+Habló un poco sobre RPC, sobre el proceso que ejecutan las operaciones.
+Otra vez no se le escuchó.
+Siguió con gRPC; su intervención terminó a las 9:12.
+Siguió Mera a las 9:13 y profundizó un poco más con gRPC.
+Explicó su práctica sobre el módulo de turnos y sobre el ServidorTurnos.
+También explicó sobre el módulo de ClientesTurnos.
+La práctica se está entendiendo y explica los fallos al apagar el servidor.
+Explicó también sobre RTV, sobre su propuesta de revisión de vehículos.
+Habló también sobre los fallos hipotéticos y lección para RTV; el escenario fue: turnos y pagos guarda la autorización.
+Mera terminó a las 9:23.
+Continuó Reinoso a las 9:24; comenzó sobre Java RMI: invocar un objeto de otra JVM.
+Explicó que el cliente llama a un método como si fuera local, pero el código se ejecuta en otra JVM.
+Mostró un ejemplo de conversor Celsius a Fahrenheit.
+Su práctica fue en base a ese ejemplo.
+Explicó también, en base a su proyecto final de curso, el sistema de selección de docente, específicamente en el tema de los correos.
+Habló sobre los fallos hipotéticos y lección para el sistema de selección de docente SSDC.
+Su intervención terminó a las 9:32.
+El último integrante, Byron, no alcanzó a exponer; expone la próxima clase.
